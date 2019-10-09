@@ -1,0 +1,69 @@
+body {
+	background-image: url("200.gif");
+	color: pink; 
+	font-family: 'Turret Road';
+}
+
+p {
+	font-size: 30px;
+	
+}
+
+img{
+	height: 700px;
+	width: 700px;
+}
+
+h1 {
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 100px;
+	margin: 20px;
+	margin-left: 210px;
+	background-color: green;
+	padding-left: 5px;
+}
+
+.watermelon {
+	background-color:;
+	color: black;
+	margin:;
+}
+p {
+	background-color: green;
+	color: pink;
+
+}
+li {
+	float: left;
+}
+ul {
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	/*width:200px;*/
+	overflow: hidden;
+	background-color: white;
+	position: fixed;
+}
+li a {
+	display:block;
+	color:purple;
+	text-align: center;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color: pink;
+	color:purple;
+}
+ .active {
+ 	background-color: pink;
+ }
+  .paragraph {
+  	width: 800px;
+  	text-align: left;
+  	margin-left: 300px;
+  	background-color: green;
+  }
+  
+  
